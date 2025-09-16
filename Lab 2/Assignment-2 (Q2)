@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+</head>
+
+<body>
+    <h1>IMAGE GALLERY</h1>
+
+    <h2>HTML</h2>
+    <img src="HTML.png" alt="HTML" height="100">
+    <br>
+    <p>HTML is the foundational scripting language used by web browsers to display content on the World Wide Web.
+        HyperText in HTML allows users to navigate the web by clicking links that redirect to new pages. Markup in HTML
+        involves using tags to define how text and images are presented on a webpage.</p>
+
+    <h2>ROSE</h2>
+    <img src="Rose.jpeg" alt="Rose" height="150">
+    <br>
+    <p>A rose is either a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it
+        bears. There are over three hundred species and tens of thousands of cultivars.</p>
+
+
+    <h2>CAR</h2>
+    <img src="Car.jpeg" alt="Car" height="100">
+    <br>
+    <p>A car, or an automobile, is a motor vehicle with wheels. Most definitions of cars state that they run primarily
+        on roads, seat one to eight people, have four wheels, and mainly transport people rather than cargo.</p>
+
+</body>
+
+</html>
