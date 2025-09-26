@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <div>
+                <h1>LEARNING
+                    <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>
+                </h1>
+            </div>
+        </nav>
+        <nav>
+            <ul>
+                <li><a href="/home" target="_blank">Home</a></li>
+                <li><a href="/about" target="_blank">About</a></li>
+                <li><a href="/contact" target="_blank">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <div>
+                <h2>INTRODUCTION</h2>
+                <p>Hypertext Markup Language (HTML) is the standard markup language[a] for documents designed to be
+                    displayed in a web browser. It defines the content and structure of web content. It is often
+                    assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.</p>
+            </div>
+            <section>
+                <div>
+                    <h3>History</h3>
+                    <p>In 1980, physicist Tim Berners-Lee, a contractor at CERN, proposed and prototyped ENQUIRE, a
+                        system for CERN researchers to use and share documents. In 1989, Berners-Lee wrote a memo proposing an
+                        Internet-based hypertext system. Berners-Lee specified HTML and wrote the browser and server
+                        software in late 1990. That year, Berners-Lee and CERN data systems engineer Robert Cailliau
+                        collaborated on a joint request for funding, but the project was not formally adopted by CERN.
+                        In his personal notes of 1990, Berners-Lee listed "some of the many areas in which hypertext is
+                        used"; an encyclopedia is the first entry.</p>
+                </div>
+            </section>
+
+            <section>
+                <div>
+                    <h3>Markup</h3>
+                    <p>HTML markup consists of several key components, including those called tags (and their
+                        attributes), character-based data types, character references and entity references. HTML tags most commonly
+                        come in pairs like <code>&lt;h1&gt; and &lt;/h1&gt;</code>, although some represent empty elements
+                        and so are unpaired,for example &lt;img&gt;. The first tag in such a pair is the start tag, and the second is 
+                        the end tag (they are also called opening tags and closing tags).</p>
+                </div>
+            </section>
+
+            <section>
+                <div>
+                    <h3>Semantic HTML</h3>
+                    <p>Semantic HTML is a way of writing HTML that emphasizes the meaning of the encoded information
+                        over its presentation (look). HTML has included semantic markup from its inception, but has also
+                        included presentational markup, such as <code>&lt;font&gt;, &lt;i&gt; and &lt;center&gt;</code>
+                        tags. There are also the semantically neutral div and span tags. Since the late 1990s, when
+                        Cascading Style Sheets were beginning to work in most browsers, web authors have been encouraged to
+                        avoid the use of presentational HTML markup with a view to the separation of content and
+                        presentation.</p>
+                </div>
+            </section>
+
+            <section>
+                <div>
+                    <h3>Delivery</h3>
+                    <p>HTML documents can be delivered by the same means as any other computer file. However, they are
+                        most often delivered either by HTTP from a web server or by email</p>
+                </div>
+            </section>
+
+        </article>
+    </main>
+
+    <footer>
+        &copy; <i>Copyright Blog All Rights Reserved</i>
+    </footer>
+
+</body>
+
+</html>
